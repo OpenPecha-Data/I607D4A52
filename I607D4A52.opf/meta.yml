@@ -1,0 +1,38 @@
+id: I607D4A52
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T09:21:12.274781'
+last_modified: '2022-06-19T09:21:12.274792'
+parser: null
+source_metadata:
+  title: Autobiography of rMor chen Kun dga lhun grub (1654–1726/28); Lamdre Lobshe,
+    vol. ca, title no. 4
+  author: rmor chen kun dga lhun grub/
+  description: 'Digital version 2.0 {Wylie}; WYLIE COPY of master xml (completed:
+    2013-09-04); unrevised, no thematic TEI markup'
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre (src)
+  - Text input:rdzong sar khams bye'i lnga rig slob gling / sde dge rdzong sar/ (dzkj)
+  - Editorial process:Mathias Fermer (mf), kun dga' rdo rje/ (Kathmandu) (kun)
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:-
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/264
+  bases:
+    552a:
+      title: Autobiography of rMor chen Kun dga lhun grub (1654–1726/28); Lamdre Lobshe,
+        vol. ca, title no. 4
+      order: 1
+      base_file: 552a.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
